@@ -26,6 +26,7 @@ Skills➡️
  <br />🔸SQL
  <br />🔸Data Structures & Algorithm
 
+
 <p align="left">
 <a href="https://twitter.com/Omor__Faruk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifatho25073502" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omor-faruk-615518258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omor-faruk-615518258/" height="30" width="40" /></a>
@@ -33,6 +34,7 @@ Skills➡️
 <a href="https://www.facebook.com/tanvirahmedppp.gmailcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rh.rifat.33633" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCD2N5LQVM2nPnijhDWmntvQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCD2N5LQVM2nPnijhDWmntvQ/featured" height="30" width="40" /></a>
 </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdomarfaruk10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
