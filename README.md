@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hi there 👋 I'm OMAR 👨‍💻
+### Desktop & Mobile Apps Developer
 
-<!--
-**mdomarfaruk10/mdomarfaruk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm an Apps developer and programmer having 1 years of experience in the field. Since my start, I have worked over many Android, IOS, and desktop Application projects for many clients and produced high-quality work.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter Web.
+- 💬 Ask me about Flutter.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: Programmers don't have girlfriends
+
+Programming Language➡️
+ <br />🔸C
+ <br />🔸C++
+ <br />🔸Java
+ <br />🔸Dart
+ <br />🔸PHP
+ <br />🔸python
+
+Skills➡️
+ <br />🔸Flutter
+ <br />🔸MS Office
+ <br />🔸Graphic Design
+ <br />🔸Web Design
+ <br />🔸Video Editing
+ <br />🔸SQL
+ <br />🔸Data Structures & Algorithm
+
+<p align="left">
+<a href="https://twitter.com/Omor__Faruk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifatho25073502" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omor-faruk-615518258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omor-faruk-615518258/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20521233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17568395" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tanvirahmedppp.gmailcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rh.rifat.33633" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCD2N5LQVM2nPnijhDWmntvQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCD2N5LQVM2nPnijhDWmntvQ/featured" height="30" width="40" /></a>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdomarfaruk10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=mdomarfaruk10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdomarfaruk10)  
+
+![GitHub metrics](https://metrics.lecoq.io/mdomarfaruk10) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdomarfaruk10)  
+
+![Profile views](https://gpvc.arturio.dev/mdomarfaruk10)  
