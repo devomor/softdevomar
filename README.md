@@ -13,11 +13,9 @@ I'm an Apps developer and programmer having 1 years of experience in the field. 
 - ⚡ Fun fact: Programmers don't have girlfriends
 
 Programming Language➡️
- <br />🔸C  <br />🔸C++
- <br />🔸Java
- <br />🔸Dart
- <br />🔸PHP
- <br />🔸python
+ <br />🔸C     🔸C++
+ <br />🔸Java  🔸Dart
+ <br />🔸PHP   🔸python
 
 Skills➡️
  <br />🔸Flutter
@@ -26,6 +24,7 @@ Skills➡️
  <br />🔸Web Design
  <br />🔸Video Editing
  <br />🔸SQL
+ <br />🔸Firebase
  <br />🔸Data Structures & Algorithm
 
 
