@@ -2,8 +2,10 @@
 ### Desktop & Mobile Apps Developer
 
 I'm an Apps developer and programmer having 1 years of experience in the field. Since my start, I have worked over many Android, IOS, and desktop Application projects for many clients and produced high-quality work.
-![Profile views](https://gpvc.arturio.dev/mdomarfaruk10)  
+ 
 ![GitHub metrics](https://metrics.lecoq.io/mdomarfaruk10) 
+
+![Profile views](https://gpvc.arturio.dev/mdomarfaruk10) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter Web.
