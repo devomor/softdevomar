@@ -32,6 +32,7 @@ Skills➡️
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omor-faruk-615518258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omor-faruk-615518258/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20521233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17568395" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tanvirahmedppp.gmailcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rh.rifat.33633" height="30" width="40" /></a>
+ <a href="https://instagram.com/omar_faruk_82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rh_rifat220" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCD2N5LQVM2nPnijhDWmntvQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCD2N5LQVM2nPnijhDWmntvQ/featured" height="30" width="40" /></a>
 </p>
 
