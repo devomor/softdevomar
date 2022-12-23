@@ -1,6 +1,6 @@
 <div align="center"> 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+OMAR...;Welcome+to+my+Profile!)]
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&width=435&lines=Hello+world.;This+is+a+OMAR.+.+.;Welcome+to+my+profile.)](https://git.io/typing-svg)
+ ---
  </div>
 
 ### Hi there 👋 I'm OMAR 👨‍💻
