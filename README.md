@@ -8,28 +8,10 @@ I'm an Apps developer and programmer having 1 years of experience in the field. 
  
 ![GitHub metrics](https://metrics.lecoq.io/mdomarfaruk10) 
 
-![Profile views](https://gpvc.arturio.dev/mdomarfaruk10) 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flutter Web.
-- 💬 Ask me about Flutter.
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: Programmers don't have girlfriends
+![Profile views](https://gpvc.arturio.dev/mdomarfaruk10)
 
-Programming Language➡️
- <br />🔹C
- <br />🔹C++  🔹C#
- <br />🔹Java 🔹Dart
- <br />🔹PHP  🔹python
-
-Skills➡️
- <br />🔹Flutter
- <br />🔹MS Office
- <br />🔹Graphic Design
- <br />🔹Web Design
- <br />🔹Video Editing
- <br />🔹SQL
- <br />🔹Firebase
- <br />🔹Data Structures & Algorithm
+ # 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/jetpack_compose-%23ED8B00.svg?style=for-the-badge&logo=jetpack-compose) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 <p align="left">
@@ -42,11 +24,11 @@ Skills➡️
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdomarfaruk10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdomarfaruk10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdomarfaruk10)](https://github.com/anuraghazra/github-readme-stats)
 
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=mdomarfaruk10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=mdomarfaruk10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdomarfaruk10)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdomarfaruk10)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdomarfaruk10&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdomarfaruk10)  
+
 
